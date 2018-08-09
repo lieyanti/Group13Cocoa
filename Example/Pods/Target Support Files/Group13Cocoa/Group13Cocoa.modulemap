@@ -1,0 +1,6 @@
+framework module Group13Cocoa {
+  umbrella header "Group13Cocoa-umbrella.h"
+
+  export *
+  module * { export * }
+}

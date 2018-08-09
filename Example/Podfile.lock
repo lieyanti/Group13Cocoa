@@ -1,0 +1,16 @@
+PODS:
+  - Group13Cocoa (0.1.0)
+
+DEPENDENCIES:
+  - Group13Cocoa (from `../`)
+
+EXTERNAL SOURCES:
+  Group13Cocoa:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Group13Cocoa: 93b6f13a90023787b82fd955ef19474991e5fe64
+
+PODFILE CHECKSUM: 829e3c70d7037feedadf13a84caf6fcc88490933
+
+COCOAPODS: 1.5.3

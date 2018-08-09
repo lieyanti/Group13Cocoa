@@ -1,0 +1,22 @@
+{
+  "name": "Group13Cocoa",
+  "version": "0.1.0",
+  "summary": "A short description of Group13Cocoa.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lieyanti/Group13Cocoa",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lieyanti": "yanthi_lie@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/lieyanti/Group13Cocoa.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Group13Cocoa/Classes/**/*"
+}

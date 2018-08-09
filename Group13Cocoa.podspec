@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Group13Cocoa'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of Group13Cocoa.'
+  s.summary          = 'Group13Cocoa Description here.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Group13Cocoa create this library.
                        DESC
 
   s.homepage         = 'https://github.com/lieyanti/Group13Cocoa'
