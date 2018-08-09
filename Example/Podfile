@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Group13Cocoa_Tests' do
+  pod 'Group13Cocoa', :path => '../'
+  
+  
+end
